@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://muxiuyu.github.io/meiridasaifp/sitemap.xml
